@@ -12,7 +12,7 @@ function Home() {
         <div className="home-hero">
           <h1 className="home-title">Welcome to ShopHub</h1>
           <p className="home-subtitle">
-            Discover amazig products at greate prices
+            Discover amazing products at great prices
           </p>
         </div>
 
