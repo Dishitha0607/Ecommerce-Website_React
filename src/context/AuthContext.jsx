@@ -57,3 +57,10 @@ function AuthProvider({ children }) {
 }
 
 export default AuthProvider;
+
+//this is useull coz we dont import AuthContext and use this fucntion instead
+export function useAuth() {
+  const context = useContext(AuthContext);
+
+  return context;
+}
