@@ -23,7 +23,7 @@ function Checkout() {
         <div className="container">
           <h1 className="page-title">Checkout Working</h1>
           <div className="checkout-container">
-            <div className="checkout-items" key={item.id}>
+            <div className="checkout-items">
               <h2 className="checkout-section-title">Order Summury</h2>
               {cartItems.map((item) => (
                 <div key={item.id} className="checkout-item">
