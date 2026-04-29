@@ -24,9 +24,9 @@ function Navbar() {
           <div className="navbar-auth">
             {!user ? (
               <div className="navbar-auth-links">
-                <Link to={"/auth"} className="btn btn-secondary">
+                {/* <Link to={"/auth"} className="btn btn-secondary">
                   Login
-                </Link>
+                </Link> */}
                 <Link to={"/auth"} className="btn btn-primary">
                   SignUp
                 </Link>
