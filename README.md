@@ -117,7 +117,9 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
+1. Main Page (Home Page):
+   ![img alt](https://github.com/Dishitha0607/Ecommerce-Website_React/blob/8570a2dbbf2df817d005bfa92d0112c77e2c83bd/Screenshot%202026-04-29%20112306.png)
 
 
 ## ⚠️ Future Improvements
