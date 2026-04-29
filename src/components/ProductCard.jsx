@@ -11,7 +11,7 @@ function ProductCard({ product }) {
 
   return (
     <>
-      <div className="product-cart">
+      <div className="product-card">
         <img
           src={product.image}
           alt={product.name}

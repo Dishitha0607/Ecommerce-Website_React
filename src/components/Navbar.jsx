@@ -16,6 +16,9 @@ function Navbar() {
             <Link to={"/"} className="navbar-link">
               Home
             </Link>
+            <Link to={"/about"} className="navbar-link">
+              About
+            </Link>
             <Link to={"/checkout"} className="navbar-link">
               Cart
             </Link>
@@ -27,7 +30,7 @@ function Navbar() {
                 {/* <Link to={"/auth"} className="btn btn-secondary">
                   Login
                 </Link> */}
-                <Link to={"/auth"} className="btn btn-primary">
+                <Link to={"/auth"} className="btn btn-secondary">
                   SignUp
                 </Link>
               </div>

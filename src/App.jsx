@@ -7,6 +7,7 @@ import Navbar from "./components/Navbar";
 import AuthProvider from "./context/AuthContext";
 import ProductDetails from "./pages/ProductDetails";
 import CartProvider from "./context/CartContext";
+import About from "./pages/About";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
             <Navbar />
             <Routes>
               <Route path="/" element={<Home />} />
+              <Route path="/about" element={<About />} />
               <Route path="/auth" element={<Auth />} />
               <Route path="/checkout" element={<Checkout />} />
               <Route path="/products/:id" element={<ProductDetails />}></Route>
