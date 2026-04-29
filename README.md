@@ -121,6 +121,12 @@ http://localhost:5173
 1. Main Page (Home Page):
    ![img alt](https://github.com/Dishitha0607/Ecommerce-Website_React/blob/8570a2dbbf2df817d005bfa92d0112c77e2c83bd/Screenshot%202026-04-29%20112306.png)
 
+2. Cart/Checkout Page:
+   ![img alt](https://github.com/Dishitha0607/Ecommerce-Website_React/blob/14626b407f5cc4bace012508c3f4c61baa4b793e/Screenshot%202026-04-29%20112534.png)
+
+3. Sign Up/Login Page :
+   ![img alt]
+
 
 ## ⚠️ Future Improvements
 
